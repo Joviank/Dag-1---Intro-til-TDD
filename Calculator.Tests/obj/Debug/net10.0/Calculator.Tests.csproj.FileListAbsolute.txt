@@ -98,3 +98,4 @@ C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - 
 C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 1 - Intro til TDD\Calculator.Tests\obj\Debug\net10.0\Calculator.Tests.pdb
 C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 1 - Intro til TDD\Calculator.Tests\obj\Debug\net10.0\Calculator.Tests.genruntimeconfig.cache
 C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 1 - Intro til TDD\Calculator.Tests\obj\Debug\net10.0\ref\Calculator.Tests.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 1 - Intro til TDD\Calculator.Tests\obj\Debug\net10.0\Calculator.Tests.sourcelink.json

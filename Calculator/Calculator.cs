@@ -7,7 +7,7 @@ public class Calculator
         int tall1 = a;
         int tall2 = b;
 
-        int sum = tall1 - tall2;
+        int sum = tall1 / tall2;
 
         return sum;
     }

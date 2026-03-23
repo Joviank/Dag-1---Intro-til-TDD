@@ -9,3 +9,4 @@ C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - 
 C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 1 - Intro til TDD\Calculator\obj\Debug\net10.0\refint\Calculator.dll
 C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 1 - Intro til TDD\Calculator\obj\Debug\net10.0\Calculator.pdb
 C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 1 - Intro til TDD\Calculator\obj\Debug\net10.0\ref\Calculator.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 1 - Intro til TDD\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
