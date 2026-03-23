@@ -27,4 +27,26 @@ public class CalculatorTester
         // Assert: The result should be 5
         Assert.Equal(5, result);
     }
+    [Fact]
+    public void Divide_TwoNumbers_ReturnCorrectSum()
+    {
+        // Arrange
+        var calculator = new Calculator();
+    
+        // Act
+        var result = calculator.Divide(16, 2);
+    
+        // Assert
+        Assert.Equal(8, result);
+    }
+
+    [Fact]
+    public void Divide_ByZero_ThrowsException()
+    {
+        // Arrange
+        var calculator = new Calculator();
+
+        // Act & Assert
+        Assert.Throws<DivideByZeroException>(() => calculator.Divide(10, 0));
+    }
 }
